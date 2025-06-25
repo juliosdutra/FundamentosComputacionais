@@ -6,4 +6,6 @@ y = np.sin(2*np.pi*x)
 
 print(x)
 print(y)
-plt.plot(x,y,'o--')
+
+plt.figure()
+plt.plot(x,y,'o--');
