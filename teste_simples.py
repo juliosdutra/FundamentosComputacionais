@@ -8,4 +8,5 @@ print(x)
 print(y)
 
 plt.figure()
-plt.plot(x,y,'o--');
+plt.plot(x,y,'o--')
+plt.show();
