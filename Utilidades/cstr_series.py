@@ -44,3 +44,28 @@ def serie_CSTR(param_list: List[CSTR_param], CA_entrada: float) -> Tuple[List[fl
         CA_entrada = CA_saida
 
     return Conc, Conv
+
+def ajuda():
+    """
+    Exemplo de uso do módulo de simulação de CSTRs.
+
+    >>> from cstr_series import CSTR_param, modelo_CSTR, serie_CSTR
+
+    # Criar uma lista de 3 reatores com parâmetros diferentes
+    >>> reatores = [
+    ...     CSTR_param(F=50, V=100, k=0.5),
+    ...     CSTR_param(F=50, V=100, k=0.8),
+    ...     CSTR_param(F=50, V=100, k=1.2)
+    ... ]
+
+    # Concentração de entrada no primeiro reator
+    >>> CA0 = 1.0
+
+    # Simular série de reatores
+    >>> concentracoes, conversoes = serie_CSTR(reatores, CA0)
+
+    # Exibir resultados
+    >>> for i, (CA, X) in enumerate(zip(concentracoes[1:], conversoes), start=1):
+    ...     print(f"Reator {i}: C_A = {CA:.4f} mol/L | Conversão acumulada = {X:.2%}")
+    """
+    print(ajuda.__doc__)
