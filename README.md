@@ -26,7 +26,9 @@ Repositório de apoio à disciplina **ENG‑17401 – Fundamentos Computacionais
 
 ### Já que você chegou até aqui...
 
-![Animação engraçada](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZwZm5mcW1pc2VndHp3bzQ2amNsOHg3Y3c4a3JlODM2bmg0ZHRiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EsOAahQCW3dk1MZmQV/giphy.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZwZm5mcW1pc2VndHp3bzQ2amNsOHg3Y3c4a3JlODM2bmg0ZHRiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EsOAahQCW3dk1MZmQV/giphy.gif" alt="Animação engraçada" width="400"/>
+</p>
 
 Coloque uma playlist de música para ajudar a se concentrar na programação e na codificação. Sugestão no Spotify:
 
