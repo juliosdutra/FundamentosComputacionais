@@ -1,6 +1,7 @@
 # 🧠 Fundamentos Computacionais para EQ
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/juliosdutra/modelagem-processos-dados](https://colab.research.google.com/github/juliosdutra/FundamentosComputacionais/))
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juliosdutra/FundamentosComputacionais)
+
 
 
 Repositório de apoio à disciplina **ENG‑17401 – Fundamentos Computacionais para Engenharia Química**, ofertada no curso de Engenharia Química da UFES (Campus Alegre). O objetivo é introduzir conceitos de programação e ferramentas computacionais com foco na resolução de problemas típicos da engenharia química.
