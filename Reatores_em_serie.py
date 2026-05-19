@@ -14,7 +14,7 @@ def modelo_cstr(CAin, params):
   CA = F/(F+V*k)*CAin
   return CA
 
-def simula_cstr(CA0 = 1.0, num_estagios = 3, params):
+def simula_cstr(CA0 = 1.0, num_estagios = 3, params = ParametrosCSTR()):
   CAin = CA0
   CA = np.zeros(num_estagios)
   X = np.zeros(num_estagios)
