@@ -3,9 +3,9 @@ import numpy as np
 
 @dataclass
 class ParametrosCSTR:
-  vazao = 100.0 : float
-  volume = 50.0 : float
-  constante = 0.5: float
+  vazao: float = 100.0 
+  volume: float = 50.0
+  constante: float = 0.5
 
 def modelo_cstr(CAin, params):
   F = params.vazao
